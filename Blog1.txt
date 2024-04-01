@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/utils.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Your_Blog-Heaven for blogger</title>
+</head>
+<body>
+    <nav class="navigation max-width-1 m-auto">
+        <div class="nav-left">
+           <span> Your_Blog </span>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </div>
+        <div class="nav-right">
+            <input class="form-input" input="text" placeholder="Article Search">
+            <button class="btn">
+                Search
+            </button>
+        </div>
+
+    </nav>
+    <div class="max-width-1 m-auto">
+        <hr>
+    </div>
+    <div class="content max-width-1 m-auto my-2">
+        <div class="content-left">
+            <h1>The Heaven For Blogers</h1>
+            
+                This blog post aims to inspire readers to tap into their creativity by providing practical tips and insights into the creative process. It encourages them to embrace curiosity, seek out new experiences, embrace failure, create space for solitude, and find inspiration in diversity. Through these practices, readers can unlock their creative potential and unleash their imagination upon the world.
+            
+        </div>
+        <div class="content-right">
+            <img src="img/vecteezy_overhead-shot-of-man-working-on-laptop-flat-lay-top-view_5022141-1.jpg" alt="Your_Blog">
+        </div>
+
+    </div>
+    <div class="max-width-1 m-auto"><hr> </div>
+    <div class="home-Articles max-width-1 m-auto font1">
+        <h2>Featured Articles</h2>
+        <div class="home-article">
+            <div class="home-article-img">
+            <img src="img/article.jpg" alt="article">
+            </div>
+            
+            <div class="home-article-content font1">
+                <h3>Lorem ipsum dolor sit amet consectetur adipisicing.
+                </h3>
+                <span>Author_Name</span>
+                <span>Date</span>
+                <span>6mint Read</span>
+            </div>
+        </div>
+        <div class="home-article">
+            <div class="home-article-img">
+            <img src="img/article.jpg" alt="article">
+            </div>
+            
+            <div class="home-article-content font1">
+                <h3>Lorem ipsum dolor sit amet consectetur adipisicing.
+                </h3>
+                <span>Author_Name</span>
+                <span>Date</span>
+                <span>6mint Read</span>
+            </div>
+        </div>
+    </div>
+    <div class="footer max-width-2 m-auto">
+       
+       <p>Copyright &copy; Your_Blog.com</p>
+       <a href="https://www.vecteezy.com/free-vector/typing">Video Credit: vecteezy</a>
+       
+    </div>
+</body>
+</html>
